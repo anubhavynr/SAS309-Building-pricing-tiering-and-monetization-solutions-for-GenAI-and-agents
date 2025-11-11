@@ -1,4 +1,4 @@
-# SAS309-Building-pricing-tiering-and-monetization-solutions-for-GenAI-and-agents
+# SAS309: Building pricing tiering and monetization solutions for GenAI and agents
 This repository lists the resources for the reInvent Chalk Talk: SAS309: Building pricing, tiering, and monetization solutions for GenAI and agents.
 
 * [Whitepaper: Rethinking SaaSin the Agentic Era](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/isv/approved/images/en_us__aws_isv_rethinking-saas-in-the-agentic-era_whitepaper.pdf?trk=916c4380-8d8f-4892-b0ba-40a373c88bd1&sc_channel=el)
